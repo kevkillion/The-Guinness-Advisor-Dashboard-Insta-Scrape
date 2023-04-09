@@ -1,5 +1,5 @@
 
-![Guinness Advisor Dashboard](Guinness Advisor Tableau Image.jpg)
+![Guinness Advisor Tableau Image](https://user-images.githubusercontent.com/65492956/230768902-1c5af60d-627b-4411-9d4e-58fa7e09e437.jpg)
 
 # **Instagram Guinness Advisor Data Extraction, Geocoding & Visualisation** 
 This is a project that demonstrates how to scrape and analyse Instagram data using Apify, Python, and Google Maps API, and then visualize it using Tableau. The project involves scraping Instagram data from a specific profile, data cleansing, data enriching, geocoding and data visualisation.
