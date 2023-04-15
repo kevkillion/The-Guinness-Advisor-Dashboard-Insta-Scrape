@@ -68,4 +68,4 @@ The following files were used in this project:
 - Instagram Guinness Advisor Dashboard.twbx: The Tableau dashboard file
 
 # Conclusion
-This project demonstrates the power of Python and Tableau in extracting and analyzing data from social media platforms. By using these tools, we were able to extract valuable information from Instagram and present it in an easy-to-understand format through data visualization.
+This project demonstrates the power of Python and Tableau in extracting, clensing and analyzing data from popular media platfroms. By using these tools, I was able to present information from Instagram in a dynamic, fun and visually aesthetic dashboard.
