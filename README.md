@@ -59,12 +59,13 @@ The cleaned data was then loaded into Tableau, where a dashboard was created to 
 # Files
 The following files were used in this project:
 
-- extract.py: Python script for extracting data from Instagram using the Apify application
-- clean.py: Python script for cleaning the extracted data using Pandas
-- join.py: Python script for joining the cleaned data with geocoded addresses using Pandas
-- final_instagram_guinnessadvisor.xlsx: The final cleaned data file
-- final_instagram_guinnessadvisor_geocoded.xlsx: The final geocoded data file
+- README.md: Description file outlining the project
+- main.py: Python script for manipulating and cleansing data from exported Instagram data using the Apify application
+- geocode.py: Python script for enriching address information and identifying longitude and latitude coordinates
+- join.py: Python script for joining the cleaned data with geocoded addresses
+- final_instagram_guinnessadvisor.xlsx: The cleaned data file
 - geocode_addresses.xlsx: The geocoded addresses file
+- final_instagram_guinnessadvisor_geocoded.xlsx: The final cleaned, geocoded data file 
 - Instagram Guinness Advisor Dashboard.twbx: The Tableau dashboard file
 
 # Conclusion
