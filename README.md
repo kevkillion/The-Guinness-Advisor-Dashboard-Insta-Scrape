@@ -17,7 +17,6 @@ Packages
 ```python 
 import pandas as pd
 import regex as re
-from rich import print
 from rich.pretty import pprint
 import requests
 import logging
