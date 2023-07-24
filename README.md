@@ -75,3 +75,4 @@ The following files were used in this project:
 # Conclusion
 This project demonstrates the power of Python and Tableau in extracting, clensing and analyzing data from popular media platfroms. By using these tools, I was able to present information from Instagram in a dynamic, fun and visually aesthetic dashboard.
 
+
